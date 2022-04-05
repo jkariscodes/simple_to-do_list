@@ -4,7 +4,7 @@ Name                 : PyQt To Do List
 Description          : A simple to-do list application for your desktop.
 Date                 : 15/July/2021
 copyright            : (C) 2021 by Joseph Kariuki
-email                : joehene@gmail.com
+email                : contact@josephkariuki.com
  ***************************************************************************/
 /***************************************************************************
  *                                                                         *

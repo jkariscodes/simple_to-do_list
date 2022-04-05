@@ -2,7 +2,7 @@
 This is a simple PyQt5 desktop to do list application that works like the standard to do list apps.
 
 ## Technologies
-1. Git 2.25.1 - Tool used for version control.
+1. Git 2.35.1 - Tool used for version control.
 2. Python 3.8.10 - Main language used to write the application logic.
 3. PyQt5 5.15.4 - Desktop user interface library based on C++ Qt framework.
 
@@ -20,7 +20,7 @@ This is a simple PyQt5 desktop to do list application that works like the standa
    
 6.The app should appear as shown below.
 </br></br>
-![To Do List App](./to_do_app.png)
+![To Do List App](./to_do_app.png)  ![To Do List App2](./to_do_app_.jpg)
 
 ### Examples of use
 1. This app can be used to learn on how to code in Python and PyQt.
